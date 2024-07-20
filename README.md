@@ -43,5 +43,5 @@ The PersonalTrainer.py script uses the PoseDetector module to count movements du
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-kholti-075288209/)
 
 ## Acknowledgments
-[![Mediapipe Documentation](https://img.shields.io/badge/Mediapipe-Documentation-0A66C2?style=for-the-badge&logo=mediapipe&logoColor=white)](https://google.github.io/mediapipe/)
-[![OpenCV Documentation](https://img.shields.io/badge/OpenCV-Documentation-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://docs.opencv.org/)
+[![Mediapipe Documentation](https://img.shields.io/badge/Mediapipe-Documentation-0A66C2?style=for-the-badge&logo=mediapipe&logoColor=white)](https://ai.google.dev/edge/mediapipe/solutions/guide) 
+[![OpenCV Documentation](https://img.shields.io/badge/OpenCV-Documentation-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
