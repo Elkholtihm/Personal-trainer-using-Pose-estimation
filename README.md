@@ -40,7 +40,7 @@ The PersonalTrainer.py script uses the PoseDetector module to count movements du
 5. Display the video with landmarks, angles, and movement count.
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hamza-kholti-075288209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-kholti-075288209/)
 
 ## Acknowledgments
 [![Mediapipe Documentation](https://img.shields.io/badge/Mediapipe-Documentation-0A66C2?style=for-the-badge&logo=mediapipe&logoColor=white)](https://google.github.io/mediapipe/)
